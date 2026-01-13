@@ -42,5 +42,7 @@ Displays cybercrime incidents and percentage share by province.
 
 🚀 Future Enhancements
 1.Per-capita analysis using population data
+
 2.Predictive modeling for cybercrime trends
+
 3.Interactive dashboards using Power BI
