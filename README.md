@@ -23,6 +23,7 @@ Data was cleaned and transformed to a tidy format using pivot_longer().
 3.GitHub (version control & documentation)
 
 📈 Key Visualizations
+
 1. National Cybercrime Trend & YoY % Change
 Shows both absolute incident counts and growth momentum.
 
@@ -41,8 +42,6 @@ Displays cybercrime incidents and percentage share by province.
 * A slight decline in 2024 may indicate stabilization or reporting changes.
 
 🚀 Future Enhancements
-1.Per-capita analysis using population data
-
-2.Predictive modeling for cybercrime trends
-
-3.Interactive dashboards using Power BI
+    1.Per-capita analysis using population data
+    2.Predictive modeling for cybercrime trends
+    3.Interactive dashboards using Power BI
