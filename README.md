@@ -1,8 +1,8 @@
 # Cybercrime-Trends Analysis-canada
 Cybercrime Trends Analysis in Canada (2015–2024) using R and Power BI
 
-📊 Cybercrime Trends in Canada (2015–2024)
-🔍 Project Overview
+**Cybercrime Trends in Canada (2015–2024)**
+**Project Overview**
 This project analyzes cybercrime trends in Canada from 2015 to 2024 using national and provincial datasets.
 The analysis focuses on:
    * long-term growth patterns,
@@ -11,18 +11,18 @@ The analysis focuses on:
    * year-over-year change dynamics.
 The project demonstrates data wrangling, visualization, and storytelling skills using R programming and Power BI.
 
-🗂️ Datasets
+**Datasets**
 National Cybercrime Totals (2015–2024) from Statistics Canada
 
 Province-wise Cybercrime Incidents
 Data was cleaned and transformed to a tidy format using pivot_longer().
 
-🛠️ Tools & Technologies
+**Tools & Technologies**
 1.R (tidyverse, ggplot2, scales)
 2.Power BI (R Visual integration)
 3.GitHub (version control & documentation)
 
-📈 Key Visualizations
+**Key Visualizations**
 
 1. National Cybercrime Trend & YoY % Change
 Shows both absolute incident counts and growth momentum.
@@ -36,13 +36,13 @@ Compares trends across major cybercrime categories such as Fraud and Extortion.
 Displays cybercrime incidents and percentage share by province.
 ![image](visuals/graph3.jpeg)
 
-🔑 Key Insights:
+**Key Insights:**
 * Cybercrime incidents have more than tripled since 2015.
 * Fraud is the dominant and fastest-growing cybercrime category.
 * Ontario, British Columbia, and Alberta account for the majority of incidents.
 * A slight decline in 2024 may indicate stabilization or reporting changes.
 
-🚀 Future Enhancements
+**Future Enhancements**
     1.Per-capita analysis using population data
     2.Predictive modeling for cybercrime trends
     3.Interactive dashboards using Power BI
